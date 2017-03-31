@@ -3,7 +3,7 @@
   "jobId": 109,
   "files": [
     {
-      "fileName": "Shared/v_1/Test_1.resx",
+      "fileName": "Shared/v/Test.resx",
       "wordCount": 70,
       "sha": "e82e57ba04964f56c406eab5f14f75d3c6e78550"
     }
@@ -12,7 +12,7 @@
     {
       "culture": "es-es",
       "status": "handed-off",
-      "handBackETA": "2017-03-30T02:24",
+      "handBackETA": "",
       "handOffDate": "2016-09-30T23:29",
       "handBackDate": "",
       "integrationDate": ""
